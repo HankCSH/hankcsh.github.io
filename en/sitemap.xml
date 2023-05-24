@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://hankcsh.github.io/tags/automation/</loc>
+    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
+  </url><url>
+    <loc>http://hankcsh.github.io/categories/award/</loc>
+    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
+  </url><url>
+    <loc>http://hankcsh.github.io/tags/bim/</loc>
+    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
+  </url><url>
+    <loc>http://hankcsh.github.io/categories/</loc>
+    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://hankcsh.github.io/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hankcsh.github.io/categories/"
+                />
+  </url><url>
     <loc>http://hankcsh.github.io/</loc>
     <lastmod>2023-05-22T07:25:40+08:00</lastmod>
     <xhtml:link
@@ -15,51 +37,14 @@
                 href="http://hankcsh.github.io/"
                 />
   </url><url>
-    <loc>http://hankcsh.github.io/post/my-first-post/</loc>
+    <loc>http://hankcsh.github.io/post/hkibim-bim-automation/</loc>
     <lastmod>2023-05-22T07:25:40+08:00</lastmod>
   </url><url>
     <loc>http://hankcsh.github.io/post/</loc>
     <lastmod>2023-05-22T07:25:40+08:00</lastmod>
   </url><url>
-    <loc>http://hankcsh.github.io/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="http://hankcsh.github.io/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hankcsh.github.io/categories/"
-                />
-  </url><url>
-    <loc>http://hankcsh.github.io/post/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://hankcsh.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -71,46 +56,20 @@
                 href="http://hankcsh.github.io/tags/"
                 />
   </url><url>
-    <loc>http://hankcsh.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://hankcsh.github.io/publication/</loc>
   </url><url>
-    <loc>http://hankcsh.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>http://hankcsh.github.io/resume/</loc>
   </url><url>
-    <loc>http://hankcsh.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/post/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/tags/%D9%86%D8%B5/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/post/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hankcsh.github.io/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>http://hankcsh.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="http://hankcsh.github.io/zh-tw/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hankcsh.github.io/about/"
+                />
   </url>
 </urlset>

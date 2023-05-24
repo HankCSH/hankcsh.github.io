@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Award on Hank CHEN</title>
+        <link>http://hankcsh.github.io/categories/award/</link>
+        <description>Recent content in Award on Hank CHEN</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 22 May 2023 07:25:40 +0800</lastBuildDate><atom:link href="http://hankcsh.github.io/categories/award/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>HKIBIM BIM Automation 2023 Award</title>
+        <link>http://hankcsh.github.io/post/hkibim-bim-automation/</link>
+        <pubDate>Mon, 22 May 2023 07:25:40 +0800</pubDate>
+        
+        <guid>http://hankcsh.github.io/post/hkibim-bim-automation/</guid>
+        <description>&lt;img src="http://hankcsh.github.io/post/hkibim-bim-automation/award.jpg" alt="Featured image of post HKIBIM BIM Automation 2023 Award" /&gt;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello world&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://hankcsh.github.io/post/hkibim-bim-automation/award.jpg&#34;
+	width=&#34;4500&#34;
+	height=&#34;3001&#34;
+	srcset=&#34;http://hankcsh.github.io/post/hkibim-bim-automation/award_hu900a3d92e08b04abf6543441ff1a6afd_5441945_480x0_resize_q75_box.jpg 480w, http://hankcsh.github.io/post/hkibim-bim-automation/award_hu900a3d92e08b04abf6543441ff1a6afd_5441945_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;359px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

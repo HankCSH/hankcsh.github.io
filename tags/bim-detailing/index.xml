@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>BIM detailing on Hank CHEN</title>
+        <link>http://hankcsh.github.io/tags/bim-detailing/</link>
+        <description>Recent content in BIM detailing on Hank CHEN</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 24 Feb 2023 07:25:40 +0800</lastBuildDate><atom:link href="http://hankcsh.github.io/tags/bim-detailing/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Automatic BIM detailing using deep features of 3D views</title>
+        <link>http://hankcsh.github.io/post/automatic-bim-detailing-using-deep-features-of-3d-views/</link>
+        <pubDate>Fri, 24 Feb 2023 07:25:40 +0800</pubDate>
+        
+        <guid>http://hankcsh.github.io/post/automatic-bim-detailing-using-deep-features-of-3d-views/</guid>
+        <description>&lt;img src="http://hankcsh.github.io/post/automatic-bim-detailing-using-deep-features-of-3d-views/method.png" alt="Featured image of post Automatic BIM detailing using deep features of 3D views" /&gt;&lt;h1 id=&#34;automatic-bim-detailing-using-deep-features-of-3d-views&#34;&gt;Automatic BIM detailing using deep features of 3D views&lt;/h1&gt;
+&lt;p&gt;Abstract:
+Building information modeling (BIM) detailing, the process of adding the level of graphical and non-graphical details, is required in many BIM stages and applications; however, manual BIM detailing is a resource-intensive and costly process. This study proposes an automatic BIM detailing method based on deep features (DFs) of BIM 3D views in three steps. First, a BIM’s 3D view and semantics were extracted automatically. Then, machine learning (ML) algorithms learned the DFs to predict the target BIM’s invisible details. Finally, the details were automatically added to BIM by a Dynamo program. A case study of motion-bearing component detailing for 86 doors through three DFs and five ML algorithms revealed that DFs improved the automatic detailing results comprehensively (29 out of 32 scenarios) and significantly. This paper’s contribution includes an effective, novel approach for automatic BIM detailing as well as quantified experimental evidence about the effectiveness of DFs for BIM applications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Automation in Construction&lt;/strong&gt; &lt;em&gt;Volume 148, April 2023, 104780&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Doi: &lt;a class=&#34;link&#34; href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0926580523000407?via%3Dihub&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;10.1016/j.autcon.2023.104780&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://hankcsh.github.io/post/automatic-bim-detailing-using-deep-features-of-3d-views/method.png&#34;
+	width=&#34;4005&#34;
+	height=&#34;1833&#34;
+	srcset=&#34;http://hankcsh.github.io/post/automatic-bim-detailing-using-deep-features-of-3d-views/method_hu9405b5b9cb097857c0026cfa3a41145e_722727_480x0_resize_box_3.png 480w, http://hankcsh.github.io/post/automatic-bim-detailing-using-deep-features-of-3d-views/method_hu9405b5b9cb097857c0026cfa3a41145e_722727_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Method of the proposed three-step automatic BIM detailing using deep features&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;218&#34;
+		data-flex-basis=&#34;524px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

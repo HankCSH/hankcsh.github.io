@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://hankcsh.github.io/tags/automation/</loc>
-    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
+    <lastmod>2023-03-31T07:25:40+08:00</lastmod>
   </url><url>
     <loc>http://hankcsh.github.io/categories/award/</loc>
-    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
+    <lastmod>2023-03-31T07:25:40+08:00</lastmod>
   </url><url>
     <loc>http://hankcsh.github.io/tags/bim/</loc>
-    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
+    <lastmod>2023-03-31T07:25:40+08:00</lastmod>
   </url><url>
     <loc>http://hankcsh.github.io/categories/</loc>
-    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
+    <lastmod>2023-03-31T07:25:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -25,7 +25,7 @@
                 />
   </url><url>
     <loc>http://hankcsh.github.io/</loc>
-    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
+    <lastmod>2023-03-31T07:25:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -38,13 +38,13 @@
                 />
   </url><url>
     <loc>http://hankcsh.github.io/post/hkibim-bim-automation/</loc>
-    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
+    <lastmod>2023-03-31T07:25:40+08:00</lastmod>
   </url><url>
     <loc>http://hankcsh.github.io/post/</loc>
-    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
+    <lastmod>2023-03-31T07:25:40+08:00</lastmod>
   </url><url>
     <loc>http://hankcsh.github.io/tags/</loc>
-    <lastmod>2023-05-22T07:25:40+08:00</lastmod>
+    <lastmod>2023-03-31T07:25:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -55,6 +55,27 @@
                 hreflang="en"
                 href="http://hankcsh.github.io/tags/"
                 />
+  </url><url>
+    <loc>http://hankcsh.github.io/post/automatic-bim-detailing-using-deep-features-of-3d-views/</loc>
+    <lastmod>2023-02-24T07:25:40+08:00</lastmod>
+  </url><url>
+    <loc>http://hankcsh.github.io/tags/bim-detailing/</loc>
+    <lastmod>2023-02-24T07:25:40+08:00</lastmod>
+  </url><url>
+    <loc>http://hankcsh.github.io/tags/deep-features/</loc>
+    <lastmod>2023-02-24T07:25:40+08:00</lastmod>
+  </url><url>
+    <loc>http://hankcsh.github.io/categories/journal-paper/</loc>
+    <lastmod>2023-02-24T07:25:40+08:00</lastmod>
+  </url><url>
+    <loc>http://hankcsh.github.io/categories/conference/</loc>
+    <lastmod>2022-10-28T07:25:40+08:00</lastmod>
+  </url><url>
+    <loc>http://hankcsh.github.io/post/icccbe/</loc>
+    <lastmod>2022-10-28T07:25:40+08:00</lastmod>
+  </url><url>
+    <loc>http://hankcsh.github.io/tags/vr/</loc>
+    <lastmod>2022-10-28T07:25:40+08:00</lastmod>
   </url><url>
     <loc>http://hankcsh.github.io/publication/</loc>
   </url><url>

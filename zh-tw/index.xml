@@ -11,7 +11,26 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://hankcsh.github.io/zh-tw/about/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+        <description>&lt;p&gt;哈囉！我是陳首翰(Hank)
+目前在&lt;a class=&#34;link&#34; href=&#34;https://www.hku.hk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;香港大學&lt;/a&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.arch.hku.hk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;建築學院&lt;/a&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.arch.hku.hk/departments-and-divisions/department-of-real-estate-and-construction/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;房地產及建築系&lt;/a&gt;的&lt;a class=&#34;link&#34; href=&#34;https://ilab.hku.hk&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;iLab&lt;/a&gt;擔任&lt;a class=&#34;link&#34; href=&#34;https://frankxue.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;薛凡博士&lt;/a&gt;的研究助理&lt;/p&gt;
+&lt;p&gt;我的研究興趣主要為以下方向：
+&lt;img src=&#34;http://hankcsh.github.io/zh-tw/about/research-interest.png&#34;
+	width=&#34;1686&#34;
+	height=&#34;948&#34;
+	srcset=&#34;http://hankcsh.github.io/zh-tw/about/research-interest_hu5547b0494bc1197b0f9692a053f044a6_294603_480x0_resize_box_3.png 480w, http://hankcsh.github.io/zh-tw/about/research-interest_hu5547b0494bc1197b0f9692a053f044a6_294603_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;177&#34;
+		data-flex-basis=&#34;426px&#34;
+	
+&gt;&lt;/p&gt;
 </description>
         </item>
         

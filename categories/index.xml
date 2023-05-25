@@ -6,12 +6,28 @@
         <description>Recent content in Categories on Hank CHEN</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 22 May 2023 07:25:40 +0800</lastBuildDate><atom:link href="http://hankcsh.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 31 Mar 2023 07:25:40 +0800</lastBuildDate><atom:link href="http://hankcsh.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Award</title>
         <link>http://hankcsh.github.io/categories/award/</link>
-        <pubDate>Mon, 22 May 2023 07:25:40 +0800</pubDate>
+        <pubDate>Fri, 31 Mar 2023 07:25:40 +0800</pubDate>
         
         <guid>http://hankcsh.github.io/categories/award/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Journal Paper</title>
+        <link>http://hankcsh.github.io/categories/journal-paper/</link>
+        <pubDate>Fri, 24 Feb 2023 07:25:40 +0800</pubDate>
+        
+        <guid>http://hankcsh.github.io/categories/journal-paper/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Conference</title>
+        <link>http://hankcsh.github.io/categories/conference/</link>
+        <pubDate>Fri, 28 Oct 2022 07:25:40 +0800</pubDate>
+        
+        <guid>http://hankcsh.github.io/categories/conference/</guid>
         <description></description>
         </item>
         

@@ -1,18 +1,16 @@
 ---
 import { Image } from 'astro:assets'
-import {profile} from '../../settings'
+import {profile, template} from '../../settings'
 import SocialIcons from './SocialIcons.astro'
-import ProfilePictures from '@/assets/profile_pictures.jpg'
+import ProfilePictures from '@/assets/profile_pictures.jpeg'
 import { getCollection } from 'astro:content'
-import { template } from '@/settings'
 
 const isBlogPopulated = await getCollection('blog').then(collection => collection.length > 0)
 
 const {fullName, title} = profile
 ---
-<aside
-	class='px-4 pt-4 h-screen w-[20rem] bg-base-200 text-base-content flex flex-col'
->
+
+<aside class='px-4 pt-4 h-screen w-[20rem] bg-base-200 text-base-content flex flex-col'>
 	<div class='flex flex-col my-8 justify-between h-full'>
 		<div>
 			<div class='flex justify-center items-center flex-col'>
@@ -25,23 +23,30 @@ const {fullName, title} = profile
 			</div>
 			<div class='mx-4 mt-16'>
 				<ul class='space-y-4 menu grow shrink menu-md overflow-y-auto'>
+					<!-- Core Academic Pages -->
 					<li>
-                        <a href={`${template.base}/`} class='text-lg'>Home</a>
+						<a href={`${template.base}/`} class='text-lg'>🏠 Home</a>
 					</li>
 					<li>
-                        <a href={`${template.base}/research`} class='text-lg'>Research</a>
+						<a href={`${template.base}/research`} class='text-lg'>🔬 Research</a>
 					</li>
 					<li>
-                        <a href={`${template.base}/papers`} class='text-lg'>Papers</a>
+						<a href={`${template.base}/papers`} class='text-lg'>📚 Papers</a>
 					</li>
 					<li>
-                        <a href={`${template.base}/cv`} class='text-lg'>CV</a>
-                    </li>
-                    {isBlogPopulated &&
+						<a href={`${template.base}/cv`} class='text-lg'>📄 CV</a>
+					</li>
+					<!-- Blog (conditional) -->
+					{isBlogPopulated && (
+						<li>
+							<a href={`${template.base}/blog/1`} class='text-lg'>✍️ Blog</a>
+						</li>
+					)}
+					
+					<!-- Photography (external link) -->
 					<li>
-                        <a href={`${template.base}/blog/1`} class='text-lg'>Blog</a>
-</li>
-                    }
+						<a href="https://photo.hankcsh.github.io" target="_blank" rel="noopener" class='text-lg'>📸 Photography ↗</a>
+					</li>
 				</ul>
 			</div>
 		</div>

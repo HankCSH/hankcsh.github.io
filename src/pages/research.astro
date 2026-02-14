@@ -14,10 +14,10 @@ const { research_areas } = profile;
 
     <div class="mb-12">
       <p class="text-lg mb-6">
-        My research focuses on groundbreaking investigations into radioactivity and the discovery of new radioactive elements. Through meticulous experimental techniques and innovative methodologies, I aim to advance our understanding of radioactive phenomena and their applications in both physics and chemistry.
+        My research focuses on graph-based frameworks for automated Scan-to-BIM, specifically developing the Architectural Opening Object Graph Model (AOOGM) to reconstruct doors and windows from point cloud data.
       </p>
       <p class="text-lg mb-6">
-        This interdisciplinary approach has led to significant discoveries, including the isolation of polonium and radium, contributing to the foundation of modern nuclear physics and radiochemistry.
+        AOOGM captures essential architectural components—panels, frames, load/motion-bearing elements—and their spatial relationships, enabling interpretable detection despite occlusion and noise. Complementary work explores point cloud embeddings for BIM object retrieval, bridging reality capture with digital BIM libraries to accelerate AECO digitalization.
       </p>
     </div>
 
@@ -50,20 +50,20 @@ const { research_areas } = profile;
       }
     </div>
 
-    <List listTitle="Current Projects" listItems={[
+    <List listTitle="Involved Projects" listItems={[
       {
-        title: "Radioactivity Studies",
-        description: "Investigation of radioactive properties in uranium minerals and isolation of new radioactive elements."
+        title: "Scan-to-BIM Automation System for Built Assets Digitalization in Hong Kong",
+        description: "Keywords: 3D point cloud; deep learning; BIM; CIM; open BIM"
       },
       {
-        title: "Measurement Techniques",
-        description: "Development of precise methods for measuring radioactive emissions and their properties."
+        title: "Architectural openings detection from 3D point clouds: A bi-objective optimization approach addressing local hollow semantic graph and global design regularity.",
+        description: "Keywords: Architectural opening; LiDAR point cloud; bi-objective optimization; graph learning; supervoxel clustering"
       }
     ]} />
 
     <h2 class="text-2xl font-bold mb-6">Research Impact</h2>
     <p class="text-lg mb-6">
-      My research has opened new frontiers in radioactivity studies, leading to practical applications in both scientific research and medical treatments. The discoveries have revolutionized our understanding of atomic structure and radioactive decay processes.
+      AOOGM and PCD-BIM embeddings enable scalable Scan-to-BIM, transforming reality capture into actionable BIM models. Applications include accessibility optimization, fire safety routing, natural ventilation analysis, and digital preservation of heritage structures.
     </p>
   </div>
 </Layout>
